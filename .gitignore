@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.pdb
+*.egg-info/
+*.egg
+*.log
+
+# Django
+db.sqlite3
+
+# Virtual environments
+pyenv/
+
+# VSCode
+.vscode/
+
+# macOS
+.DS_Store
+
+# Node/Vue (for mini-vue-canvas)
+node_modules/
+dist/
+.env
+
+# General
+*.swp
