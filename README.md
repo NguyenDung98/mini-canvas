@@ -49,7 +49,7 @@ source pyenv/bin/activate
 #### b. Install dependencies
 
 ```bash
-pip install django djangorestframework
+pip install django djangorestframework django-cors-headers
 ```
 
 #### c. Apply migrations and run the server
